@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '103.161.185.21',
-	'username' => 'jaringpangan',
-	'password' => '@Japang2022',
+	'hostname' => 'localhost',
+	'username' => 'infranes_rekam_medis',
+	'password' => '@InfraNesiaDb',
 	'database' => 'rekam_medis',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
